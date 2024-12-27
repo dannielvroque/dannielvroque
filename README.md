@@ -3,16 +3,16 @@
 
 - 🔭 Hoje trabalho com back-end, linguagem C++ como skill principal, mas focado em ambientes OnPremises e Cloud AWS
 - 🌱 Estudando bastante sobre Clouds AWS e GCP, Cultura DevOps, SRE
--->
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=dannielroque&show_icons=true&theme=dark#gh-dark-mode-only" alt="Danniel Roque GitHub stats-Dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=dannielroque&show_icons=true&theme=dark" alt="Danniel Roque GitHub stats-Dark" width="48%">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielroque" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielroque" alt="Top Langs" width="48%">
   </a>
-</div>
+</p>
+
 
 
 
