@@ -6,6 +6,7 @@ I am committed to enhancing my knowledge in Cloud Computing, with a particular i
 I am a collaborative professional, open to communication and constructive feedback, always ready to work in a team. My professional journey is driven by a continuous pursuit of growth and learning opportunities. Additionally, I have a B1/B2 proficiency level in English and am dedicated to improving my skills in a second language.
 
 🔭 Currently working with back-end development, with C++ as my main skill, focusing on both On-Premises and AWS Cloud environments.
+
 🌱 Studying AWS and GCP Clouds, DevOps culture, and SRE.
 
 <p align="center">
